@@ -18,7 +18,17 @@
 
 [restore symbol](https://github.com/tobefuturer/restore-symbol): A reverse engineering tool to restore stripped symbol table for iOS app.
 
+[iOS Hacking Basics](https://www.youtube.com/watch?v=YcfuQY5z_-A): Reverse Engineering iOS Apps & Runtime Modification Tutorial.
 
+[Reverse Engineering iOS Applications](https://www.owasp.org/images/b/b9/OWASP_Mobile_App_Hacking_(AppSecUSA_2014)_Workshop_Content.pdf).
+
+[MachOView](https://github.com/gdbinit/MachOView): MachOView.
+
+[class-dump](http://stevenygard.com/projects/class-dump/): Class-dump download page.
+
+[Hopper](https://www.hopperapp.com).
+
+[Reverse bbs](http://iosre.com).
 
 #### Android reverse
 
