@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>760D653E-DFA9-43DB-84B7-4F1BAD3C1B4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>samples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>06EBD4C171886B37FF040684636CFCE00FFB7FCA</key>
+		<string>ssh://Machine-de-Build.local/git/Hopper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SDK/Samples/samples.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>06EBD4C171886B37FF040684636CFCE00FFB7FCA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://Machine-de-Build.local/git/Hopper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>06EBD4C171886B37FF040684636CFCE00FFB7FCA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>06EBD4C171886B37FF040684636CFCE00FFB7FCA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hopper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

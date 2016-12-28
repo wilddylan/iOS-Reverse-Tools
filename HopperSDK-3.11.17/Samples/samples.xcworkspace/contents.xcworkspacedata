@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AmigaLoader/AmigaLoader.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:M68kCPU/M68kCPU.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SampleTool/SampleTool.xcodeproj">
+   </FileRef>
+</Workspace>
